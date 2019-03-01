@@ -22,9 +22,15 @@
     opacity: 0.6;
 }
 
+.page-title {
+    margin-left: 5rem;
+    color: darkgrey;
+    text-align: center;
+}
+
 .page-info {
     margin-left: 1rem;
-    color: whitesmoke;
+    color: darkgrey;
 }
 
 .error {
